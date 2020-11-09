@@ -1,0 +1,10 @@
+# contains db password
+config.py
+
+# incorrect, old file
+MovieLens_Extract.ipynb
+Wiki_Data.ipynb
+.ipynb_checkpoints/Wiki_Data-checkpoint.ipynb
+
+# too large
+ratings.csv
